@@ -4,6 +4,7 @@
   "main": "src/index.ts",
   "license": "MIT",
   "scripts": {
+    "dev": "ts-node",
     "test": "jest --watch"
   },
   "dependencies": {
