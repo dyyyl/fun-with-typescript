@@ -44,3 +44,4 @@ dist
 .env.prod.*
 
 .eslintcache
+/dist
