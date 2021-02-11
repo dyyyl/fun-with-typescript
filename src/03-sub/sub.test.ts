@@ -1,4 +1,4 @@
-import { sub } from '../src/index';
+import { sub } from '.';
 
 describe('sub', () => {
   it('should return the difference between two numbers', () => {

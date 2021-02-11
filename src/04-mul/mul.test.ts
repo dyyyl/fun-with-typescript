@@ -1,4 +1,4 @@
-import { mul } from '../src/index';
+import { mul } from '.';
 
 describe('mul', () => {
   it('should return the product of two numbers', () => {

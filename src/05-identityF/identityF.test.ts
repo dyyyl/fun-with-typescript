@@ -1,4 +1,4 @@
-import { identityF } from '../src/index';
+import { identityF } from '.';
 
 describe('identity', () => {
   it('should return the identity of whatever it is passed', () => {
